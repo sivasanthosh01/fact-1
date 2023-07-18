@@ -1,5 +1,6 @@
+var n=prompt("Enter The number");
 var fact=1;
-for(i=1;i<=7;i++)
+for(i=1;i<=n;i++)
 {
 	fact=fact*i;
 }
